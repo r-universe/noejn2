@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "censoredAIDS"]
 	path = censoredAIDS
-	url = https://github.com/cran/censoredAIDS
+	url = https://github.com/noejn2/censoredaids
